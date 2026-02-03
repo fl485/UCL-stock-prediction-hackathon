@@ -1,0 +1,7 @@
+Column,description,units,role
+Date,Trading day (NYSE calendar),YYYY-MM-DD,identifier
+Open,S&P 500 opening level,index points,feature
+High,S&P 500 intraday high,index points,feature
+Low,S&P 500 intraday low,index points,feature
+Close,S&P 500 daily closing level,index points,target
+Volume,Aggregate daily trading volume,shares,feature
