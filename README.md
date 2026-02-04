@@ -44,9 +44,11 @@ This linear model with L2 regularization provided the best generalization capabi
 
   pip install -r requirements.txt
 
+
 3. Run the main script:
 
   python main.py
+
 
 
 This will process train.csv and test.csv, train the Ridge model, and overwrite prediction.csv with new results.
