@@ -56,9 +56,3 @@ This will process train.csv and test.csv, train the Ridge model, and overwrite p
 Rank: 1st / 35 entries.
 
 Key Takeaway: In financial time-series forecasting, rigorous feature engineering and regularization often outperform raw model complexity.
-
-
-***
-
-### A quick tip for your repo:
-Since you mentioned `main.py` is the workflow, make sure you have a `requirements.txt` file in that repo as well (listing pandas, scikit-learn, xgboost, etc.). If you don't have one, you can generate it easily by running `pip freeze > requirements.txt` in your terminal while in your project environment.
