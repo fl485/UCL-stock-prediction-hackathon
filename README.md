@@ -1,10 +1,7 @@
-This was my Submission for UCL DDSxFinTech Stock Prediction Hackathon
-
-Training data was supplied in train.csv and the task was to predict the closing price in of the S&P 500 in train.csv. My code is all within main.py.
 # S&P 500 Stock Price Prediction - Hackathon Winning Solution 🏆
 
 ## Overview
-This repository contains the source code and data for my winning entry in a competitive Data Science Hackathon (1st Place). 
+This repository contains the source code and data for my winning entry in UCL DDSxFinTech Stock Prediction Hackathon (1st Place). 
 
 The objective was to predict the daily closing price of the S&P 500 using 5 years of historical financial data. By implementing a robust feature engineering pipeline and rigorously testing a wide ensemble of regression models, this solution achieved the lowest error rate among all competitors.
 
@@ -36,18 +33,18 @@ This linear model with L2 regularization provided the best generalization capabi
 ## 🚀 How to Run
 
 1. Clone the repository:
-
+   
    git clone [https://github.com/fl485/UCL-stock-prediction-hackathon](https://github.com/fl485/UCL-stock-prediction-hackathon)
 
    
 2. Install dependencies (ensure you have pandas, sklearn, numpy, etc.):
 
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 3. Run the main script:
 
-  python main.py
+   python main.py
 
 
 
